@@ -9,5 +9,3 @@ var _ = require('underscore');
 // now let's use underscore
 var result = _.contains([1,2,3], 2);
 console.log(result); // true
-
-// now let's use underscore

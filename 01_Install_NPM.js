@@ -20,3 +20,4 @@
 
 // git 설치: 터미널 'git init'
 // git 확인: 'git status' : .gitignore에 등록된 파일들은 무시된다.
+//
